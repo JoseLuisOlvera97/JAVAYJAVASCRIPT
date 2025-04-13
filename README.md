@@ -31,7 +31,6 @@ Características
 
         
 ![imagen](https://github.com/user-attachments/assets/d9ac3b1c-4b6c-4cd7-b2f7-ebee5a1fbb4a)
-Aplicacion que filtra por categorias y muestra lsa temporadas junto con sus capitulos.
 
 ![imagen](https://github.com/user-attachments/assets/b40d6bca-c034-4bd2-bbcb-27acea2cc97b)
 
